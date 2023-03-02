@@ -13,6 +13,7 @@ Future versions of the Highcharts widget will support additional chart component
  - Highcharts Maps
  - Highcharts Gantt
  - Highcharts with Accessibility
+ 
  With these additional components, you will have even more options for creating visually appealing and informative charts.
 Overall, the Highcharts widget is a powerful tool for data visualization that can be used in a variety of applications, from business dashboards to scientific research. With its ease of use and flexibility, it is a valuable asset for any developer or data analyst looking to create compelling and informative charts.
 
